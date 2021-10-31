@@ -1,0 +1,1 @@
+{"py/object": "TiendaMaquillaje.Dominio.Asesor.Asesor", "idAsesor": {"py/object": "uuid.UUID", "hex": "76a3965167b14418ad7302ba62c7a418"}, "nombre": "Andres", "apellido": "Cardemas", "cedula": 3041686, "telefono": 9768810, "direccion": "Barrio Ciudad Dorada Manzana A Casa 31"}
